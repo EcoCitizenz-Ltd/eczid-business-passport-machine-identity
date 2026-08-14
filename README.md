@@ -173,7 +173,7 @@ For a known ECZ-ID parent reference, the ECZ-ID MCP Verifier can be used from Gi
 
 ```yaml
 - name: Re-check parent ECZ-ID posture
-  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.3
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.4
   with:
     target: ECZ-GB-RBS1NW
     policy: PREFER
