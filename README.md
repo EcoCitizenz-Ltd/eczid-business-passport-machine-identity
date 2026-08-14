@@ -1,5 +1,7 @@
 # ECZ-ID Business Passport & Machine Identity
 
+![ECZ-ID Business Passport and Machine Identity trust-spine visual](https://raw.githubusercontent.com/EcoCitizenz-Ltd/.github/main/assets/repository-visuals/eczid-business-passport-machine-identity.jpg)
+
 ## One organisation. Many machines. One resolvable identity spine.
 
 Modern organisations increasingly act through AI agents, MCP servers, APIs, software workloads, models, datasets, devices and automated services.
@@ -157,8 +159,7 @@ The companion repository contains practical examples across APIs, agents, softwa
 
 ## Public operator proof
 
-**ECZ-ID VERIFIED - ECZ-GB-RBS1NW**
-
+**ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 Resolver evidence is published for review. It does not replace the relying party's security, legal, procurement or authorization decision.
