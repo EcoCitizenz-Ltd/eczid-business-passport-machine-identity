@@ -162,3 +162,23 @@ The companion repository contains practical examples across APIs, agents, softwa
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 Resolver evidence is published for review. It does not replace the relying party's security, legal, procurement or authorization decision.
+
+---
+
+## Automate parent-proof re-checks
+
+A stable parent identity becomes more useful when relying systems can re-check its public evidence repeatedly.
+
+For a known ECZ-ID parent reference, the ECZ-ID MCP Verifier can be used from GitHub Actions:
+
+```yaml
+- name: Re-check parent ECZ-ID posture
+  uses: Ecocitizenz/ecz-id-mcp-verifier@v0.8.2
+  with:
+    target: ECZ-GB-RBS1NW
+    policy: PREFER
+```
+
+[ECZ-ID MCP Verifier](https://github.com/Ecocitizenz/ecz-id-mcp-verifier)
+
+This checks public Resolver posture for the supplied parent ECZ-ID. It does not infer the safety of every child machine beneath that parent.
