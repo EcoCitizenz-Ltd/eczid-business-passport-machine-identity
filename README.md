@@ -19,10 +19,10 @@ This repository is a practical guide to the current ECZ-ID parent/child identity
 ## Start here
 
 - [View live ECZ-ID proof](https://resolver.ecocitizenz.org/p/ECZ-GB-RBS1NW)
-- [Choose a free machine Passport](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=free-passports)
-- [Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=business)
-- [Open the Developer Gateway](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=developers)
-- [Start with TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=start)
+- [Choose a free machine Passport](https://developers.ecocitizenz.com/get-started/free-passport/?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=free-passports&ecz_source=github&ecz_surface=eczid-business-passport-machine-identity&intent=free-passport)
+- [Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=business&ecz_source=github&ecz_surface=eczid-business-passport-machine-identity)
+- [Open the Developer Gateway](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=developers&ecz_source=github&ecz_surface=eczid-business-passport-machine-identity)
+- [Start with TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=start&ecz_source=github&ecz_surface=eczid-business-passport-machine-identity)
 
 The free machine-Passport journey creates a free Business Passport when the organisation does not already have one. The seven child Passport identities are also free. Paid products add assurance, authority, monitoring, evidence, capacity, tooling or professional services; payment does not change the meaning of identity or public Resolver evidence.
 
@@ -173,7 +173,7 @@ current published evidence
 local policy
 ```
 
-[Explore developer resources](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=integration)
+[Explore developer resources](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=business-passport&utm_content=integration&ecz_source=github&ecz_surface=eczid-business-passport-machine-identity)
 
 ---
 
